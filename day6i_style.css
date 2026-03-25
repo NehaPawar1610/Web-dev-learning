@@ -1,0 +1,7 @@
+#MyId p{
+    color:cornflowerblue
+} 
+/* or */
+/* div[id="MyId"] p{
+    color: cornflowerblue;
+} */
