@@ -24,3 +24,7 @@ div{
     border: 2px solid black;
     padding: 25px;
 }
+
+button{
+    display: none;
+}
