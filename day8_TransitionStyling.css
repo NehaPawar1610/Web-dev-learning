@@ -1,0 +1,26 @@
+#div1{
+    height: 100px;
+    width: 100px;
+    background-color: blueviolet;
+    transition-duration: 1s;
+    transition-delay: 1s;
+    margin-bottom: 20px;
+
+}
+
+#div1:hover{
+    background-color: crimson;
+    border-radius: 50%;
+}
+
+#div2{
+    height: 100px;
+    width: 100px;
+    background-color: blueviolet;
+    transition:  2s ease-in-out ;
+}
+
+#div2:hover{
+margin-left: 500px;
+background-color: crimson;
+}
