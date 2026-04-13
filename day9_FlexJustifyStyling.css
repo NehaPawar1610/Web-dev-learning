@@ -1,0 +1,39 @@
+.container1{
+ width: 60%;
+ height: 400px;
+ margin: 10px auto;
+ display: flex;
+ flex-direction: column-reverse;
+ justify-content: flex-start;
+ border: 2px solid black;
+ background-color: lightpink;
+}
+.container2{
+ width: 60%;
+ height: 400px;
+ margin: 10px auto;
+ display: flex;
+ flex-direction: column-reverse;
+ justify-content: flex-end;
+ border: 2px solid black;
+ background-color: lightpink;
+}
+.container3{
+ width: 60%;
+ height: 400px;
+ margin: 10px auto;
+ display: flex;
+ flex-direction: column-reverse;
+ justify-content: center;
+ border: 2px solid black;
+ background-color: lightpink;
+}
+ div{
+    width: 50px;
+    height: 50px;
+    text-align: center;
+}
+
+h1{
+    text-align: center;
+}
